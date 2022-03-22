@@ -6,7 +6,7 @@ class DBConnection {
 	constructor() {
 		oracledb.initOracleClient()
         
-        this.config = {
+        	this.config = {
 			tag: "default",
 			poolAlias: "default",
 			user: process.env.USER,
