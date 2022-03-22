@@ -5,8 +5,8 @@ const oracledb = require("oracledb")
 class DBConnection {
 	constructor() {
 		oracledb.initOracleClient()
-        
-        	this.config = {
+
+		this.config = {
 			tag: "default",
 			poolAlias: "default",
 			user: process.env.USER,
@@ -19,7 +19,7 @@ class DBConnection {
 		let pool
 
 		try {
-            pool = oracledb.getPool(this.config.poolAlias)
+			pool = oracledb.getPool(this.config.poolAlias)
 		} catch (_) {
 			pool = await oracledb.createPool(this.config)
 		}
