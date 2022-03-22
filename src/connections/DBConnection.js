@@ -4,7 +4,7 @@ const oracledb = require("oracledb")
 
 class DBConnection {
 	constructor() {
-        oracledb.initOracleClient()
+		oracledb.initOracleClient()
 
 		this.config = {
 			tag: "default",
@@ -13,21 +13,20 @@ class DBConnection {
 			password: process.env.PASSWORD,
 			connectionString: process.env.CONNECTIONSTRING,
 		}
-        
 	}
 
 	async open() {
-        let pool
+		let pool
 
-        try {
-            pool = oracledb.getPool(this.config.poolAlias)
-        } catch (_) {
-            pool = await oracledb.createPool(this.config)
-        }
+		try {
+			pool = oracledb.getPool(this.config.poolAlias)
+		} catch (_) {
+			pool = await oracledb.createPool(this.config)
+		}
 
-		return pool.getConnection({ 
-            tag: this.config.tag,
-        })
+		return pool.getConnection({
+			tag: this.config.tag,
+		})
 	}
 
 	async query(sql) {
@@ -39,7 +38,7 @@ class DBConnection {
 				outFormat: oracledb.OUT_FORMAT_OBJECT,
 			})
 
-            const rows = result.resultSet.getRows()
+			const rows = result.resultSet.getRows()
 
 			conn.close()
 
