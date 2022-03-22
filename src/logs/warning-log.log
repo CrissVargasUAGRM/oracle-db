@@ -1,0 +1,204 @@
+[🔔 Mar-21-2022 11:50:18] error 	undefined
+[🔔 Mar-21-2022 11:51:40] error 	function status(code) {
+  this.statusCode = code;
+  return this;
+}
+[🔔 Mar-21-2022 11:52:25] error 	[object Object]
+[🔔 Mar-21-2022 11:52:55] error 	[object Object]
+[🔔 Mar-21-2022 11:53:25] error 	undefined
+[🔔 Mar-21-2022 11:53:47] error 	ORA-01722: invalid number
+[🔔 Mar-21-2022 11:59:41] error 	ORA-01722: invalid number
+[🔔 Mar-21-2022 12:00:12] error 	ORA-01722: invalid number
+[🔔 Mar-21-2022 12:02:25] error 	ORA-01722: invalid number
+[🔔 Mar-21-2022 12:02:54] error 	ORA-01722: invalid number
+[🔔 Mar-21-2022 12:02:54] error 	adsdsa
+[🔔 Mar-21-2022 12:03:46] error 	ORA-01722: invalid number
+[🔔 Mar-21-2022 12:03:46] error 	Parametro de eliminacion: adsdsa
+[🔔 Mar-21-2022 15:09:23] error 	ORA-01017: invalid username/password; logon denied
+[🔔 Mar-22-2022 09:59:51] error 	Error en al conexion a la base de datos undefined undefined undefined ReferenceError: connectionString is not defined
+[🔔 Mar-22-2022 09:59:51] error 	Error en al conexion a la base de datos undefined undefined undefined ReferenceError: connectionString is not defined
+[🔔 Mar-22-2022 11:15:33] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:15:33] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:16:51] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:16:51] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:17:33] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:17:33] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:18:36] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:18:36] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:18:57] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:18:57] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:19:05] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:19:05] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:27:20] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 11:34:21] error 	Error en al conexion a la base de datos undefined undefined undefined Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:34:21] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 11:34:21] error 	Error en al conexion a la base de datos undefined undefined undefined Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:45:06] error 	Error en al conexion a la base de datos undefined undefined undefined Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:45:17] error 	Cannot read property 'execute' of undefined
+[🔔 Mar-22-2022 11:46:27] error 	Error en al conexion a la base de datos undefined undefined undefined Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:47:16] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:48:13] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-22-2022 11:48:46] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-22-2022 11:49:07] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:49:35] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:49:35] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 11:49:35] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:49:57] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:49:57] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 11:49:57] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:50:10] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 11:50:10] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:50:10] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: ORA-12560: TNS:protocol adapter error
+[🔔 Mar-22-2022 11:52:19] error 	Error en al conexion a la base de datos undefined undefined undefined Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:52:48] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:54:20] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 11:55:50] warn 	hola warn
+[🔔 Mar-22-2022 11:58:09] warn 	hola warn
+[🔔 Mar-22-2022 11:58:09] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 11:58:09] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 11:58:52] warn 	hola warn
+[🔔 Mar-22-2022 11:58:52] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 11:58:52] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 12:00:08] error 	connection.execute is not a function
+[🔔 Mar-22-2022 12:00:28] warn 	hola warn
+[🔔 Mar-22-2022 12:00:28] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 12:00:28] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 12:03:34] warn 	hola warn
+[🔔 Mar-22-2022 13:05:47] error 	NJS-003: invalid connection
+[🔔 Mar-22-2022 13:12:06] warn 	hola warn
+[🔔 Mar-22-2022 13:12:08] warn 	hola warn
+[🔔 Mar-22-2022 13:14:12] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:14:12] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:14:20] warn 	hola warn
+[🔔 Mar-22-2022 13:14:29] warn 	hola warn
+[🔔 Mar-22-2022 13:14:33] warn 	hola warn
+[🔔 Mar-22-2022 13:14:33] warn 	hola warn
+[🔔 Mar-22-2022 13:14:33] warn 	hola warn
+[🔔 Mar-22-2022 13:14:33] warn 	hola warn
+[🔔 Mar-22-2022 13:14:34] warn 	hola warn
+[🔔 Mar-22-2022 13:14:34] warn 	hola warn
+[🔔 Mar-22-2022 13:14:34] warn 	hola warn
+[🔔 Mar-22-2022 13:14:34] warn 	hola warn
+[🔔 Mar-22-2022 13:14:34] warn 	hola warn
+[🔔 Mar-22-2022 13:14:34] warn 	hola warn
+[🔔 Mar-22-2022 13:14:34] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:35] warn 	hola warn
+[🔔 Mar-22-2022 13:14:36] warn 	hola warn
+[🔔 Mar-22-2022 13:14:36] warn 	hola warn
+[🔔 Mar-22-2022 13:14:36] warn 	hola warn
+[🔔 Mar-22-2022 13:14:36] warn 	hola warn
+[🔔 Mar-22-2022 13:14:36] warn 	hola warn
+[🔔 Mar-22-2022 13:14:36] warn 	hola warn
+[🔔 Mar-22-2022 13:14:36] warn 	hola warn
+[🔔 Mar-22-2022 13:14:37] warn 	hola warn
+[🔔 Mar-22-2022 13:14:37] warn 	hola warn
+[🔔 Mar-22-2022 13:14:37] warn 	hola warn
+[🔔 Mar-22-2022 13:14:37] warn 	hola warn
+[🔔 Mar-22-2022 13:14:37] warn 	hola warn
+[🔔 Mar-22-2022 13:14:37] warn 	hola warn
+[🔔 Mar-22-2022 13:14:38] warn 	hola warn
+[🔔 Mar-22-2022 13:14:38] warn 	hola warn
+[🔔 Mar-22-2022 13:14:38] warn 	hola warn
+[🔔 Mar-22-2022 13:14:38] warn 	hola warn
+[🔔 Mar-22-2022 13:14:38] warn 	hola warn
+[🔔 Mar-22-2022 13:14:39] warn 	hola warn
+[🔔 Mar-22-2022 13:14:39] warn 	hola warn
+[🔔 Mar-22-2022 13:14:39] warn 	hola warn
+[🔔 Mar-22-2022 13:14:39] warn 	hola warn
+[🔔 Mar-22-2022 13:14:40] warn 	hola warn
+[🔔 Mar-22-2022 13:14:40] warn 	hola warn
+[🔔 Mar-22-2022 13:14:41] warn 	hola warn
+[🔔 Mar-22-2022 13:14:41] warn 	hola warn
+[🔔 Mar-22-2022 13:14:41] warn 	hola warn
+[🔔 Mar-22-2022 13:14:41] warn 	hola warn
+[🔔 Mar-22-2022 13:14:42] warn 	hola warn
+[🔔 Mar-22-2022 13:14:42] warn 	hola warn
+[🔔 Mar-22-2022 13:14:42] warn 	hola warn
+[🔔 Mar-22-2022 13:14:43] warn 	hola warn
+[🔔 Mar-22-2022 13:14:43] warn 	hola warn
+[🔔 Mar-22-2022 13:14:43] warn 	hola warn
+[🔔 Mar-22-2022 13:14:43] warn 	hola warn
+[🔔 Mar-22-2022 13:14:43] warn 	hola warn
+[🔔 Mar-22-2022 13:14:43] warn 	hola warn
+[🔔 Mar-22-2022 13:14:44] warn 	hola warn
+[🔔 Mar-22-2022 13:14:44] warn 	hola warn
+[🔔 Mar-22-2022 13:14:44] warn 	hola warn
+[🔔 Mar-22-2022 13:14:44] warn 	hola warn
+[🔔 Mar-22-2022 13:14:44] warn 	hola warn
+[🔔 Mar-22-2022 13:14:44] warn 	hola warn
+[🔔 Mar-22-2022 13:14:45] warn 	hola warn
+[🔔 Mar-22-2022 13:14:45] warn 	hola warn
+[🔔 Mar-22-2022 13:16:00] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:16:00] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:16:02] warn 	hola warn
+[🔔 Mar-22-2022 13:16:02] warn 	hola warn
+[🔔 Mar-22-2022 13:16:03] warn 	hola warn
+[🔔 Mar-22-2022 13:16:03] warn 	hola warn
+[🔔 Mar-22-2022 13:16:04] warn 	hola warn
+[🔔 Mar-22-2022 13:16:04] warn 	hola warn
+[🔔 Mar-22-2022 13:16:05] warn 	hola warn
+[🔔 Mar-22-2022 13:16:06] warn 	hola warn
+[🔔 Mar-22-2022 13:16:06] warn 	hola warn
+[🔔 Mar-22-2022 13:32:19] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:32:19] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:32:31] warn 	hola warn
+[🔔 Mar-22-2022 13:33:39] warn 	hola warn
+[🔔 Mar-22-2022 13:34:23] error 	ORA-01722: invalid number
+[🔔 Mar-22-2022 13:34:23] error 	Parametro de eliminacion incorrecto: 4wqd
+[🔔 Mar-22-2022 13:36:20] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:36:20] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:36:27] warn 	hola warn
+[🔔 Mar-22-2022 13:36:32] error 	NJS-003: invalid connection
+[🔔 Mar-22-2022 13:36:32] error 	Parametro de eliminacion incorrecto: 6
+[🔔 Mar-22-2022 13:36:48] error 	NJS-003: invalid connection
+[🔔 Mar-22-2022 13:37:17] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:37:17] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:38:19] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:38:19] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:38:46] warn 	hola warn
+[🔔 Mar-22-2022 13:38:49] error 	NJS-003: invalid connection
+[🔔 Mar-22-2022 13:39:12] error 	NJS-003: invalid connection
+[🔔 Mar-22-2022 13:41:24] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:41:24] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:41:36] warn 	hola warn
+[🔔 Mar-22-2022 13:41:41] warn 	hola warn
+[🔔 Mar-22-2022 13:41:42] warn 	hola warn
+[🔔 Mar-22-2022 13:41:43] warn 	hola warn
+[🔔 Mar-22-2022 13:42:06] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:42:06] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:48:42] error 	NJS-046: poolAlias "BGPOOL" already exists in the connection pool cache
+[🔔 Mar-22-2022 13:48:42] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 13:49:37] warn 	hola warn
+[🔔 Mar-22-2022 13:49:43] error 	ORA-00001: unique constraint (GANADERO.SYS_C00860913) violated
+[🔔 Mar-22-2022 13:49:47] warn 	hola warn
+[🔔 Mar-22-2022 14:04:19] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: this.conexion.getConnection is not a function
+[🔔 Mar-22-2022 16:12:10] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB TypeError: Cannot read property 'getConnection' of undefined
+[🔔 Mar-22-2022 16:13:32] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 16:14:07] error 	Error en al conexion a la base de datos GANADERO GANADERO 172.16.1.23:1521/BGDB Error: NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-22-2022 16:18:11] error 	Cannot read property 'execute' of undefined
+[🔔 Mar-22-2022 16:23:16] error 	Cannot read property 'execute' of undefined
+[🔔 Mar-22-2022 16:25:07] error 	Cannot read property 'resultSet' of undefined
+[🔔 Mar-22-2022 16:25:31] warn 	hola warn
+[🔔 Mar-22-2022 16:25:51] warn 	hola warn
+[🔔 Mar-22-2022 16:27:29] warn 	hola warn
+[🔔 Mar-22-2022 16:29:15] error 	Cannot read property 'execute' of undefined
+[🔔 Mar-22-2022 16:29:35] error 	Cannot read property 'execute' of undefined
+[🔔 Mar-22-2022 16:31:26] warn 	hola warn
+[🔔 Mar-22-2022 16:31:29] warn 	hola warn
+[🔔 Mar-22-2022 16:31:30] warn 	hola warn
+[🔔 Mar-22-2022 16:31:30] warn 	hola warn
+[🔔 Mar-22-2022 16:31:31] warn 	hola warn
+[🔔 Mar-22-2022 16:31:31] warn 	hola warn
+[🔔 Mar-22-2022 16:31:32] warn 	hola warn
+[🔔 Mar-22-2022 16:31:32] warn 	hola warn
+[🔔 Mar-22-2022 16:31:33] warn 	hola warn
+[🔔 Mar-22-2022 16:31:33] warn 	hola warn
+[🔔 Mar-22-2022 16:31:33] warn 	hola warn
+[🔔 Mar-22-2022 16:31:34] warn 	hola warn
