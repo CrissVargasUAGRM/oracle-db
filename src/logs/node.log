@@ -1224,3 +1224,845 @@
 [🔔 Mar-22-2022 16:31:34] info 	localhost:3000
 [🔔 Mar-22-2022 16:31:34] info 	GET
 [🔔 Mar-22-2022 16:31:34] warn 	hola warn
+[🔔 Mar-22-2022 23:43:57] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-22-2022 23:43:57] info 	Conexion exitosa a oracle 172.16.1.23:1521/BGDB
+[🔔 Mar-22-2022 23:44:17] info 	/api/pruebaOracle/prueba
+[🔔 Mar-22-2022 23:44:17] info 	localhost:3000
+[🔔 Mar-22-2022 23:44:17] info 	GET
+[🔔 Mar-22-2022 23:44:17] warn 	hola warn
+[🔔 Mar-23-2022 00:10:57] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 00:10:57] info 	Conexion exitosa a oracle 172.16.1.23:1521/BGDB
+[🔔 Mar-23-2022 00:17:08] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 00:17:08] info 	Conexion exitosa a oracle 172.16.1.23:1521/BGDB
+[🔔 Mar-23-2022 10:05:54] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:06:14] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 10:06:14] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:06:14] info 	localhost:3000
+[🔔 Mar-23-2022 10:06:14] info 	GET
+[🔔 Mar-23-2022 10:06:14] warn 	hola warn
+[🔔 Mar-23-2022 10:06:22] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:06:22] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:06:22] info 	localhost:3000
+[🔔 Mar-23-2022 10:06:22] info 	GET
+[🔔 Mar-23-2022 10:06:22] warn 	hola warn
+[🔔 Mar-23-2022 10:06:37] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:06:37] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:06:37] info 	localhost:3000
+[🔔 Mar-23-2022 10:06:37] info 	GET
+[🔔 Mar-23-2022 10:06:37] warn 	hola warn
+[🔔 Mar-23-2022 10:06:41] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:06:41] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:06:41] info 	localhost:3000
+[🔔 Mar-23-2022 10:06:41] info 	GET
+[🔔 Mar-23-2022 10:06:41] warn 	hola warn
+[🔔 Mar-23-2022 10:13:56] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:14:05] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 10:14:05] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:05] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:05] info 	GET
+[🔔 Mar-23-2022 10:14:05] warn 	hola warn
+[🔔 Mar-23-2022 10:14:09] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:09] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:09] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:09] info 	GET
+[🔔 Mar-23-2022 10:14:09] warn 	hola warn
+[🔔 Mar-23-2022 10:14:11] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:11] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:11] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:11] info 	GET
+[🔔 Mar-23-2022 10:14:11] warn 	hola warn
+[🔔 Mar-23-2022 10:14:27] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:27] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:27] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:27] info 	GET
+[🔔 Mar-23-2022 10:14:27] warn 	hola warn
+[🔔 Mar-23-2022 10:14:28] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:28] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:28] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:28] info 	GET
+[🔔 Mar-23-2022 10:14:28] warn 	hola warn
+[🔔 Mar-23-2022 10:14:29] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:29] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:29] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:29] info 	GET
+[🔔 Mar-23-2022 10:14:29] warn 	hola warn
+[🔔 Mar-23-2022 10:14:29] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:29] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:29] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:29] info 	GET
+[🔔 Mar-23-2022 10:14:29] warn 	hola warn
+[🔔 Mar-23-2022 10:14:29] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:29] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:29] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:29] info 	GET
+[🔔 Mar-23-2022 10:14:29] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:30] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:30] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:30] info 	GET
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:30] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:30] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:30] info 	GET
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:30] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:30] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:30] info 	GET
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:30] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:30] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:30] info 	GET
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:31] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:31] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:31] info 	GET
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:31] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:31] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:31] info 	GET
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:31] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:31] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:31] info 	GET
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:31] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:31] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:31] info 	GET
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:31] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:31] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:31] info 	GET
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:32] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:32] info 	GET
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:32] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:32] info 	GET
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:32] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:32] info 	GET
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:32] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:32] info 	GET
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:32] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:32] info 	GET
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:32] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:32] info 	GET
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:33] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:33] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:33] info 	GET
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:33] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:33] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:33] info 	GET
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:33] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:33] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:33] info 	GET
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:33] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:33] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:33] info 	GET
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:33] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:33] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:33] info 	GET
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:34] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:34] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:34] info 	GET
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:34] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:34] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:34] info 	GET
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:34] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:34] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:34] info 	GET
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:34] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:34] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:34] info 	GET
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:34] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:34] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:34] info 	GET
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:34] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:34] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:34] info 	GET
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:35] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:35] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:35] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:35] info 	GET
+[🔔 Mar-23-2022 10:14:35] warn 	hola warn
+[🔔 Mar-23-2022 10:14:36] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:36] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:36] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:36] info 	GET
+[🔔 Mar-23-2022 10:14:36] warn 	hola warn
+[🔔 Mar-23-2022 10:14:37] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:37] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:37] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:37] info 	GET
+[🔔 Mar-23-2022 10:14:37] warn 	hola warn
+[🔔 Mar-23-2022 10:14:38] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:38] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:38] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:38] info 	GET
+[🔔 Mar-23-2022 10:14:38] warn 	hola warn
+[🔔 Mar-23-2022 10:14:39] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:14:39] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:14:39] info 	localhost:3000
+[🔔 Mar-23-2022 10:14:39] info 	GET
+[🔔 Mar-23-2022 10:14:39] warn 	hola warn
+[🔔 Mar-23-2022 10:15:03] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:15:06] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 10:15:06] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:06] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:06] info 	GET
+[🔔 Mar-23-2022 10:15:06] warn 	hola warn
+[🔔 Mar-23-2022 10:15:09] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:09] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:09] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:09] info 	GET
+[🔔 Mar-23-2022 10:15:09] warn 	hola warn
+[🔔 Mar-23-2022 10:15:10] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:10] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:10] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:10] info 	GET
+[🔔 Mar-23-2022 10:15:10] warn 	hola warn
+[🔔 Mar-23-2022 10:15:11] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:11] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:11] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:11] info 	GET
+[🔔 Mar-23-2022 10:15:11] warn 	hola warn
+[🔔 Mar-23-2022 10:15:11] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:11] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:11] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:11] info 	GET
+[🔔 Mar-23-2022 10:15:11] warn 	hola warn
+[🔔 Mar-23-2022 10:15:16] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:16] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:16] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:16] info 	GET
+[🔔 Mar-23-2022 10:15:16] warn 	hola warn
+[🔔 Mar-23-2022 10:15:16] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:16] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:16] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:16] info 	GET
+[🔔 Mar-23-2022 10:15:16] warn 	hola warn
+[🔔 Mar-23-2022 10:15:17] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:17] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:17] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:17] info 	GET
+[🔔 Mar-23-2022 10:15:17] warn 	hola warn
+[🔔 Mar-23-2022 10:15:18] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:18] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:18] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:18] info 	GET
+[🔔 Mar-23-2022 10:15:18] warn 	hola warn
+[🔔 Mar-23-2022 10:15:18] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:18] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:18] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:18] info 	GET
+[🔔 Mar-23-2022 10:15:18] warn 	hola warn
+[🔔 Mar-23-2022 10:15:19] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:19] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:19] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:19] info 	GET
+[🔔 Mar-23-2022 10:15:19] warn 	hola warn
+[🔔 Mar-23-2022 10:15:20] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:20] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:20] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:20] info 	GET
+[🔔 Mar-23-2022 10:15:20] warn 	hola warn
+[🔔 Mar-23-2022 10:15:21] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:21] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:21] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:21] info 	GET
+[🔔 Mar-23-2022 10:15:21] warn 	hola warn
+[🔔 Mar-23-2022 10:15:21] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:21] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:21] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:21] info 	GET
+[🔔 Mar-23-2022 10:15:21] warn 	hola warn
+[🔔 Mar-23-2022 10:15:21] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:21] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:21] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:21] info 	GET
+[🔔 Mar-23-2022 10:15:21] warn 	hola warn
+[🔔 Mar-23-2022 10:15:22] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:22] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:22] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:22] info 	GET
+[🔔 Mar-23-2022 10:15:22] warn 	hola warn
+[🔔 Mar-23-2022 10:15:23] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:23] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:23] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:23] info 	GET
+[🔔 Mar-23-2022 10:15:23] warn 	hola warn
+[🔔 Mar-23-2022 10:15:24] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:24] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:24] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:24] info 	GET
+[🔔 Mar-23-2022 10:15:24] warn 	hola warn
+[🔔 Mar-23-2022 10:15:24] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:24] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:24] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:24] info 	GET
+[🔔 Mar-23-2022 10:15:24] warn 	hola warn
+[🔔 Mar-23-2022 10:15:25] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:15:25] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:15:25] info 	localhost:3000
+[🔔 Mar-23-2022 10:15:25] info 	GET
+[🔔 Mar-23-2022 10:15:25] warn 	hola warn
+[🔔 Mar-23-2022 10:16:16] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:16:23] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:16:36] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 10:16:36] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:16:36] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:16:36] info 	localhost:3000
+[🔔 Mar-23-2022 10:16:36] info 	GET
+[🔔 Mar-23-2022 10:16:36] warn 	hola warn
+[🔔 Mar-23-2022 10:16:49] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:16:51] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 10:16:51] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:16:51] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:16:51] info 	localhost:3000
+[🔔 Mar-23-2022 10:16:51] info 	GET
+[🔔 Mar-23-2022 10:16:51] warn 	hola warn
+[🔔 Mar-23-2022 10:17:03] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 10:17:03] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:17:03] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:17:03] info 	localhost:3000
+[🔔 Mar-23-2022 10:17:03] info 	GET
+[🔔 Mar-23-2022 10:17:03] warn 	hola warn
+[🔔 Mar-23-2022 10:19:46] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:20:03] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:45:03] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:46:01] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:46:11] error 	Creacion del pool connections NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-23-2022 10:46:12] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:46:12] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:46:12] info 	localhost:3000
+[🔔 Mar-23-2022 10:46:12] info 	GET
+[🔔 Mar-23-2022 10:46:12] warn 	hola warn
+[🔔 Mar-23-2022 10:46:23] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:46:25] error 	Creacion del pool connections NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-23-2022 10:46:25] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 10:46:25] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:46:25] info 	localhost:3000
+[🔔 Mar-23-2022 10:46:25] info 	GET
+[🔔 Mar-23-2022 10:46:25] warn 	hola warn
+[🔔 Mar-23-2022 10:47:28] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:47:31] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:47:32] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 10:47:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:47:32] info 	localhost:3000
+[🔔 Mar-23-2022 10:47:32] info 	GET
+[🔔 Mar-23-2022 10:47:32] warn 	hola warn
+[🔔 Mar-23-2022 10:48:10] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:48:14] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:48:14] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 10:48:14] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:48:14] info 	localhost:3000
+[🔔 Mar-23-2022 10:48:14] info 	GET
+[🔔 Mar-23-2022 10:48:14] warn 	hola warn
+[🔔 Mar-23-2022 10:49:27] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:49:37] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:49:37] error 	Error al ejecuta la sentencia this.connection.getConnection is not a function
+[🔔 Mar-23-2022 10:49:37] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:49:37] info 	localhost:3000
+[🔔 Mar-23-2022 10:49:37] info 	GET
+[🔔 Mar-23-2022 10:49:37] warn 	hola warn
+[🔔 Mar-23-2022 10:58:03] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:58:10] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:58:10] error 	Error al ejecuta la sentencia Cannot read property 'getConnection' of undefined
+[🔔 Mar-23-2022 10:58:10] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:58:10] info 	localhost:3000
+[🔔 Mar-23-2022 10:58:10] info 	GET
+[🔔 Mar-23-2022 10:58:10] warn 	hola warn
+[🔔 Mar-23-2022 10:58:28] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:59:01] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 10:59:05] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:59:05] error 	Error al ejecuta la sentencia Cannot read property 'getConnection' of undefined
+[🔔 Mar-23-2022 10:59:05] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 10:59:05] info 	localhost:3000
+[🔔 Mar-23-2022 10:59:05] info 	GET
+[🔔 Mar-23-2022 10:59:05] warn 	hola warn
+[🔔 Mar-23-2022 10:59:32] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:02:29] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:02:34] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:02:35] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:02:35] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:02:35] info 	localhost:3000
+[🔔 Mar-23-2022 11:02:35] info 	GET
+[🔔 Mar-23-2022 11:02:35] warn 	hola warn
+[🔔 Mar-23-2022 11:03:00] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:03:03] error 	Conexion.querySelect is not a function
+[🔔 Mar-23-2022 11:03:15] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:03:17] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 11:03:17] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:03:17] info 	localhost:3000
+[🔔 Mar-23-2022 11:03:17] info 	GET
+[🔔 Mar-23-2022 11:03:17] warn 	hola warn
+[🔔 Mar-23-2022 11:07:28] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:07:33] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:07:36] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:07:36] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:07:36] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:07:36] info 	localhost:3000
+[🔔 Mar-23-2022 11:07:36] info 	GET
+[🔔 Mar-23-2022 11:07:36] warn 	hola warn
+[🔔 Mar-23-2022 11:11:59] info 	Conexion a pool exitosa undefined
+[🔔 Mar-23-2022 11:11:59] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:11:59] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:11:59] info 	localhost:3000
+[🔔 Mar-23-2022 11:11:59] info 	GET
+[🔔 Mar-23-2022 11:11:59] warn 	hola warn
+[🔔 Mar-23-2022 11:12:00] info 	Conexion a pool exitosa undefined
+[🔔 Mar-23-2022 11:12:00] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:12:00] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:12:00] info 	localhost:3000
+[🔔 Mar-23-2022 11:12:00] info 	GET
+[🔔 Mar-23-2022 11:12:00] warn 	hola warn
+[🔔 Mar-23-2022 11:12:01] info 	Conexion a pool exitosa undefined
+[🔔 Mar-23-2022 11:12:01] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:12:01] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:12:01] info 	localhost:3000
+[🔔 Mar-23-2022 11:12:01] info 	GET
+[🔔 Mar-23-2022 11:12:01] warn 	hola warn
+[🔔 Mar-23-2022 11:12:01] info 	Conexion a pool exitosa undefined
+[🔔 Mar-23-2022 11:12:01] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:12:01] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:12:01] info 	localhost:3000
+[🔔 Mar-23-2022 11:12:01] info 	GET
+[🔔 Mar-23-2022 11:12:01] warn 	hola warn
+[🔔 Mar-23-2022 11:12:01] info 	Conexion a pool exitosa undefined
+[🔔 Mar-23-2022 11:12:01] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:12:01] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:12:01] info 	localhost:3000
+[🔔 Mar-23-2022 11:12:01] info 	GET
+[🔔 Mar-23-2022 11:12:01] warn 	hola warn
+[🔔 Mar-23-2022 11:12:24] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:12:40] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:12:40] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:12:40] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:12:40] info 	localhost:3000
+[🔔 Mar-23-2022 11:12:40] info 	GET
+[🔔 Mar-23-2022 11:12:40] warn 	hola warn
+[🔔 Mar-23-2022 11:16:14] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:16:19] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:23:58] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:24:46] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:24:55] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:24:59] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 11:24:59] error 	NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:24:59] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:24:59] info 	localhost:3000
+[🔔 Mar-23-2022 11:24:59] info 	GET
+[🔔 Mar-23-2022 11:24:59] warn 	hola warn
+[🔔 Mar-23-2022 11:28:44] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:28:48] info 	Creacion del pool exitosa
+[🔔 Mar-23-2022 11:28:48] error 	NJS-047: poolAlias "hrpool" not found in the connection pool cache
+[🔔 Mar-23-2022 11:28:48] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:28:48] info 	localhost:3000
+[🔔 Mar-23-2022 11:28:48] info 	GET
+[🔔 Mar-23-2022 11:28:48] warn 	hola warn
+[🔔 Mar-23-2022 11:28:59] info 	Conexion al pool exitosa
+[🔔 Mar-23-2022 11:28:59] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:28:59] info 	localhost:3000
+[🔔 Mar-23-2022 11:28:59] info 	GET
+[🔔 Mar-23-2022 11:28:59] warn 	hola warn
+[🔔 Mar-23-2022 11:33:54] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:34:07] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:34:09] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:34:09] error 	Error al ejecuta la sentencia logger.warning is not a function
+[🔔 Mar-23-2022 11:34:09] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:34:09] info 	localhost:3000
+[🔔 Mar-23-2022 11:34:09] info 	GET
+[🔔 Mar-23-2022 11:34:09] warn 	hola warn
+[🔔 Mar-23-2022 11:34:24] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:34:26] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:34:26] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 11:34:26] error 	Creacion del pool connections
+[🔔 Mar-23-2022 11:34:26] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:34:26] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:34:26] info 	localhost:3000
+[🔔 Mar-23-2022 11:34:26] info 	GET
+[🔔 Mar-23-2022 11:34:26] warn 	hola warn
+[🔔 Mar-23-2022 11:34:41] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:34:44] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:34:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 11:34:44] info 	Creacion del pool connections
+[🔔 Mar-23-2022 11:34:44] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:34:44] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:34:44] info 	localhost:3000
+[🔔 Mar-23-2022 11:34:44] info 	GET
+[🔔 Mar-23-2022 11:34:44] warn 	hola warn
+[🔔 Mar-23-2022 11:34:54] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:34:54] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 11:34:54] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:34:54] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:34:54] info 	localhost:3000
+[🔔 Mar-23-2022 11:34:54] info 	GET
+[🔔 Mar-23-2022 11:34:54] warn 	hola warn
+[🔔 Mar-23-2022 11:35:37] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:35:40] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:35:40] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 11:35:40] info 	Creacion del pool connections
+[🔔 Mar-23-2022 11:35:40] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:35:40] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:35:40] info 	localhost:3000
+[🔔 Mar-23-2022 11:35:40] info 	GET
+[🔔 Mar-23-2022 11:35:40] warn 	hola warn
+[🔔 Mar-23-2022 11:35:46] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:35:46] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 11:35:46] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:35:46] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:35:46] info 	localhost:3000
+[🔔 Mar-23-2022 11:35:46] info 	GET
+[🔔 Mar-23-2022 11:35:46] warn 	hola warn
+[🔔 Mar-23-2022 11:38:32] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:38:57] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 11:39:01] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:39:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 11:39:01] info 	Creacion del pool connections
+[🔔 Mar-23-2022 11:39:01] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:39:01] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:39:01] info 	localhost:3000
+[🔔 Mar-23-2022 11:39:01] info 	GET
+[🔔 Mar-23-2022 11:39:05] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:39:05] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 11:39:05] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:39:05] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:39:05] info 	localhost:3000
+[🔔 Mar-23-2022 11:39:05] info 	GET
+[🔔 Mar-23-2022 11:39:06] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:39:06] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 11:39:06] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:39:06] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:39:06] info 	localhost:3000
+[🔔 Mar-23-2022 11:39:06] info 	GET
+[🔔 Mar-23-2022 11:39:06] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:39:06] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 11:39:06] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:39:06] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:39:06] info 	localhost:3000
+[🔔 Mar-23-2022 11:39:06] info 	GET
+[🔔 Mar-23-2022 11:39:07] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 11:39:07] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 11:39:07] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 11:39:07] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 11:39:07] info 	localhost:3000
+[🔔 Mar-23-2022 11:39:07] info 	GET
+[🔔 Mar-23-2022 13:49:48] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 13:51:49] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 13:52:05] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:52:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 13:52:05] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 13:52:05] info 	localhost:3000
+[🔔 Mar-23-2022 13:52:05] info 	POST
+[🔔 Mar-23-2022 13:52:05] info 	Creacion del pool connections
+[🔔 Mar-23-2022 13:52:05] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 13:53:06] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:53:06] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:53:06] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 13:53:06] info 	localhost:3000
+[🔔 Mar-23-2022 13:53:06] info 	POST
+[🔔 Mar-23-2022 13:53:06] error 	Error al ejecutar la sentencia: INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5) ORA-01400: cannot insert NULL into ("GANADERO"."CLIENTES_PRUEBA"."ID")
+[🔔 Mar-23-2022 13:53:29] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:53:29] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:53:29] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 13:53:29] info 	localhost:3000
+[🔔 Mar-23-2022 13:53:29] info 	POST
+[🔔 Mar-23-2022 13:53:29] error 	Error al ejecutar la sentencia: INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5) ORA-01400: cannot insert NULL into ("GANADERO"."CLIENTES_PRUEBA"."NAME")
+[🔔 Mar-23-2022 13:53:39] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:53:39] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:53:39] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 13:53:39] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 13:53:39] info 	localhost:3000
+[🔔 Mar-23-2022 13:53:39] info 	GET
+[🔔 Mar-23-2022 13:54:49] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 13:54:55] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:54:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 13:54:55] info 	Creacion del pool connections
+[🔔 Mar-23-2022 13:54:55] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 13:54:55] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 13:54:55] info 	localhost:3000
+[🔔 Mar-23-2022 13:54:55] info 	POST
+[🔔 Mar-23-2022 13:54:59] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:54:59] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:54:59] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 13:54:59] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 13:54:59] info 	localhost:3000
+[🔔 Mar-23-2022 13:54:59] info 	GET
+[🔔 Mar-23-2022 13:55:04] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:55:04] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:55:04] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 13:55:04] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 13:55:04] info 	localhost:3000
+[🔔 Mar-23-2022 13:55:04] info 	GET
+[🔔 Mar-23-2022 13:55:21] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:55:21] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:55:21] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 13:55:21] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 13:55:21] info 	localhost:3000
+[🔔 Mar-23-2022 13:55:21] info 	GET
+[🔔 Mar-23-2022 13:55:35] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:55:35] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:55:35] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 13:55:35] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 13:55:35] info 	localhost:3000
+[🔔 Mar-23-2022 13:55:35] info 	GET
+[🔔 Mar-23-2022 13:56:55] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:56:55] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:56:55] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 13:56:55] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 13:56:55] info 	localhost:3000
+[🔔 Mar-23-2022 13:56:55] info 	POST
+[🔔 Mar-23-2022 13:56:58] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 13:56:58] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 13:56:58] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 13:56:58] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 13:56:58] info 	localhost:3000
+[🔔 Mar-23-2022 13:56:58] info 	GET
+[🔔 Mar-23-2022 14:00:30] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:00:40] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 14:00:40] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:00:40] info 	Creacion del pool connections
+[🔔 Mar-23-2022 14:00:40] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 14:00:40] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 14:00:40] info 	localhost:3000
+[🔔 Mar-23-2022 14:00:40] info 	POST
+[🔔 Mar-23-2022 14:07:39] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:08:52] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:08:58] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:09:06] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 14:09:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:09:06] info 	Creacion del pool connections
+[🔔 Mar-23-2022 14:09:06] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 14:09:06] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 14:09:06] info 	localhost:3000
+[🔔 Mar-23-2022 14:09:06] info 	POST
+[🔔 Mar-23-2022 14:13:48] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:14:19] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:14:52] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 14:14:52] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:14:52] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 14:14:52] info 	localhost:3000
+[🔔 Mar-23-2022 14:14:52] info 	POST
+[🔔 Mar-23-2022 14:14:52] info 	Creacion del pool connections
+[🔔 Mar-23-2022 14:14:52] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 14:15:22] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:15:35] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 14:15:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:15:35] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 14:15:35] info 	localhost:3000
+[🔔 Mar-23-2022 14:15:35] info 	POST
+[🔔 Mar-23-2022 14:15:35] info 	Creacion del pool connections
+[🔔 Mar-23-2022 14:15:35] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 14:17:13] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:17:16] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 14:17:27] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 14:17:27] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:17:27] info 	Creacion del pool connections
+[🔔 Mar-23-2022 14:17:27] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 14:17:27] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 14:17:27] info 	localhost:3000
+[🔔 Mar-23-2022 14:17:27] info 	POST
+[🔔 Mar-23-2022 14:17:32] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 14:17:32] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 14:17:32] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 14:17:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 14:17:32] info 	localhost:3000
+[🔔 Mar-23-2022 14:17:32] info 	GET
+[🔔 Mar-23-2022 15:01:15] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:01:15] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:01:15] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 15:01:15] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 15:01:15] info 	localhost:3000
+[🔔 Mar-23-2022 15:01:15] info 	POST
+[🔔 Mar-23-2022 15:01:19] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:01:19] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:01:19] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:01:19] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:01:19] info 	localhost:3000
+[🔔 Mar-23-2022 15:01:19] info 	GET
+[🔔 Mar-23-2022 15:10:12] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 15:13:48] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 15:14:16] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:14:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:14:16] info 	Creacion del pool connections
+[🔔 Mar-23-2022 15:14:16] info 	Sentencia ejecutada UPDATE CLIENTES_PRUEBA SET NAME=:1, AGE=:2, SALARIO=:3 WHERE ID=:4
+[🔔 Mar-23-2022 15:14:16] info 	/api/pruebaOracle/update/4
+[🔔 Mar-23-2022 15:14:16] info 	localhost:3000
+[🔔 Mar-23-2022 15:14:16] info 	PUT
+[🔔 Mar-23-2022 15:14:26] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:14:26] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:14:26] info 	Sentencia ejecutada UPDATE CLIENTES_PRUEBA SET NAME=:1, AGE=:2, SALARIO=:3 WHERE ID=:4
+[🔔 Mar-23-2022 15:14:26] info 	/api/pruebaOracle/update/7
+[🔔 Mar-23-2022 15:14:26] info 	localhost:3000
+[🔔 Mar-23-2022 15:14:26] info 	PUT
+[🔔 Mar-23-2022 15:14:32] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:14:32] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:14:32] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:14:32] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:14:32] info 	localhost:3000
+[🔔 Mar-23-2022 15:14:32] info 	GET
+[🔔 Mar-23-2022 15:14:43] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:14:43] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:14:43] info 	Sentencia ejecutada UPDATE CLIENTES_PRUEBA SET NAME=:1, AGE=:2, SALARIO=:3 WHERE ID=:4
+[🔔 Mar-23-2022 15:14:43] info 	/api/pruebaOracle/update/7
+[🔔 Mar-23-2022 15:14:43] info 	localhost:3000
+[🔔 Mar-23-2022 15:14:43] info 	PUT
+[🔔 Mar-23-2022 15:14:44] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:14:44] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:14:44] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:14:44] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:14:44] info 	localhost:3000
+[🔔 Mar-23-2022 15:14:44] info 	GET
+[🔔 Mar-23-2022 15:15:03] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:15:03] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:15:03] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:15:03] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:15:03] info 	localhost:3000
+[🔔 Mar-23-2022 15:15:03] info 	GET
+[🔔 Mar-23-2022 15:15:03] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:15:03] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:15:03] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:15:04] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:15:04] info 	localhost:3000
+[🔔 Mar-23-2022 15:15:04] info 	GET
+[🔔 Mar-23-2022 15:36:19] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 15:37:34] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 15:38:01] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:38:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:38:01] info 	Creacion del pool connections
+[🔔 Mar-23-2022 15:38:01] info 	Sentencia ejecutada DELETE FROM CLIENTES_PRUEBA where id = 8
+[🔔 Mar-23-2022 15:38:01] info 	Eliminacion correcta
+[🔔 Mar-23-2022 15:38:01] info 	/api/pruebaOracle/delete/8
+[🔔 Mar-23-2022 15:38:01] info 	localhost:3000
+[🔔 Mar-23-2022 15:38:01] info 	DELETE
+[🔔 Mar-23-2022 15:38:06] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:38:06] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:38:06] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:38:06] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:38:06] info 	localhost:3000
+[🔔 Mar-23-2022 15:38:06] info 	GET
+[🔔 Mar-23-2022 15:38:24] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 15:38:28] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:38:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:38:28] info 	Creacion del pool connections
+[🔔 Mar-23-2022 15:38:28] info 	Sentencia ejecutada DELETE FROM CLIENTES_PRUEBA where id = 8
+[🔔 Mar-23-2022 15:38:28] info 	Eliminacion correcta
+[🔔 Mar-23-2022 15:38:28] info 	/api/pruebaOracle/delete/8
+[🔔 Mar-23-2022 15:38:28] info 	localhost:3000
+[🔔 Mar-23-2022 15:38:28] info 	DELETE
+[🔔 Mar-23-2022 15:38:31] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:38:31] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:38:31] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:38:31] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:38:31] info 	localhost:3000
+[🔔 Mar-23-2022 15:38:31] info 	GET
+[🔔 Mar-23-2022 15:43:14] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 15:44:08] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:44:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:44:08] info 	Creacion del pool connections
+[🔔 Mar-23-2022 15:44:10] error 	Error al ejecuta la sentencia ORA-12541: TNS:no listener
+[🔔 Mar-23-2022 15:44:10] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:44:10] info 	localhost:3000
+[🔔 Mar-23-2022 15:44:10] info 	GET
+[🔔 Mar-23-2022 15:44:24] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:44:24] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:44:26] error 	sql is not defined
+[🔔 Mar-23-2022 15:44:26] error 	Parametro de eliminacion incorrecto: 8
+[🔔 Mar-23-2022 15:44:50] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:44:50] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:44:52] error 	Error al ejecuta la sentencia ORA-12541: TNS:no listener
+[🔔 Mar-23-2022 15:44:52] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:44:52] info 	localhost:3000
+[🔔 Mar-23-2022 15:44:52] info 	GET
+[🔔 Mar-23-2022 15:45:11] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:45:11] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:45:11] info 	Sentencia ejecutada INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5)
+[🔔 Mar-23-2022 15:45:11] info 	/api/pruebaOracle/insert
+[🔔 Mar-23-2022 15:45:11] info 	localhost:3000
+[🔔 Mar-23-2022 15:45:11] info 	POST
+[🔔 Mar-23-2022 15:45:14] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:45:14] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:45:14] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:45:14] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:45:14] info 	localhost:3000
+[🔔 Mar-23-2022 15:45:14] info 	GET
+[🔔 Mar-23-2022 15:45:18] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:45:18] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:45:18] info 	Sentencia ejecutada DELETE FROM CLIENTES_PRUEBA where id = .8
+[🔔 Mar-23-2022 15:45:18] info 	Eliminacion correcta
+[🔔 Mar-23-2022 15:45:18] info 	/api/pruebaOracle/delete/8
+[🔔 Mar-23-2022 15:45:18] info 	localhost:3000
+[🔔 Mar-23-2022 15:45:18] info 	DELETE
+[🔔 Mar-23-2022 15:45:21] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:45:21] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:45:21] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:45:21] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:45:21] info 	localhost:3000
+[🔔 Mar-23-2022 15:45:21] info 	GET
+[🔔 Mar-23-2022 15:45:28] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:45:28] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:45:28] info 	Sentencia ejecutada DELETE FROM CLIENTES_PRUEBA where id = .7
+[🔔 Mar-23-2022 15:45:28] info 	Eliminacion correcta
+[🔔 Mar-23-2022 15:45:28] info 	/api/pruebaOracle/delete/7
+[🔔 Mar-23-2022 15:45:28] info 	localhost:3000
+[🔔 Mar-23-2022 15:45:28] info 	DELETE
+[🔔 Mar-23-2022 15:45:48] info 	Servidor corriendo en el puerto 3000
+[🔔 Mar-23-2022 15:45:50] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:45:50] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:45:50] info 	Creacion del pool connections
+[🔔 Mar-23-2022 15:45:51] info 	Sentencia ejecutada DELETE FROM CLIENTES_PRUEBA where id = 7
+[🔔 Mar-23-2022 15:45:51] info 	Eliminacion correcta
+[🔔 Mar-23-2022 15:45:51] info 	/api/pruebaOracle/delete/7
+[🔔 Mar-23-2022 15:45:51] info 	localhost:3000
+[🔔 Mar-23-2022 15:45:51] info 	DELETE
+[🔔 Mar-23-2022 15:45:58] info 	conectando a un pool ya creado
+[🔔 Mar-23-2022 15:45:58] info 	Conexion a pool exitosa
+[🔔 Mar-23-2022 15:45:58] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Mar-23-2022 15:45:58] info 	/api/pruebaOracle/prueba
+[🔔 Mar-23-2022 15:45:58] info 	localhost:3000
+[🔔 Mar-23-2022 15:45:58] info 	GET

@@ -202,3 +202,139 @@
 [🔔 Mar-22-2022 16:31:33] warn 	hola warn
 [🔔 Mar-22-2022 16:31:33] warn 	hola warn
 [🔔 Mar-22-2022 16:31:34] warn 	hola warn
+[🔔 Mar-22-2022 23:44:17] warn 	hola warn
+[🔔 Mar-23-2022 10:06:14] warn 	hola warn
+[🔔 Mar-23-2022 10:06:22] warn 	hola warn
+[🔔 Mar-23-2022 10:06:37] warn 	hola warn
+[🔔 Mar-23-2022 10:06:41] warn 	hola warn
+[🔔 Mar-23-2022 10:14:05] warn 	hola warn
+[🔔 Mar-23-2022 10:14:09] warn 	hola warn
+[🔔 Mar-23-2022 10:14:11] warn 	hola warn
+[🔔 Mar-23-2022 10:14:27] warn 	hola warn
+[🔔 Mar-23-2022 10:14:28] warn 	hola warn
+[🔔 Mar-23-2022 10:14:29] warn 	hola warn
+[🔔 Mar-23-2022 10:14:29] warn 	hola warn
+[🔔 Mar-23-2022 10:14:29] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:30] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:31] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:32] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:33] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:34] warn 	hola warn
+[🔔 Mar-23-2022 10:14:35] warn 	hola warn
+[🔔 Mar-23-2022 10:14:36] warn 	hola warn
+[🔔 Mar-23-2022 10:14:37] warn 	hola warn
+[🔔 Mar-23-2022 10:14:38] warn 	hola warn
+[🔔 Mar-23-2022 10:14:39] warn 	hola warn
+[🔔 Mar-23-2022 10:15:06] warn 	hola warn
+[🔔 Mar-23-2022 10:15:09] warn 	hola warn
+[🔔 Mar-23-2022 10:15:10] warn 	hola warn
+[🔔 Mar-23-2022 10:15:11] warn 	hola warn
+[🔔 Mar-23-2022 10:15:11] warn 	hola warn
+[🔔 Mar-23-2022 10:15:16] warn 	hola warn
+[🔔 Mar-23-2022 10:15:16] warn 	hola warn
+[🔔 Mar-23-2022 10:15:17] warn 	hola warn
+[🔔 Mar-23-2022 10:15:18] warn 	hola warn
+[🔔 Mar-23-2022 10:15:18] warn 	hola warn
+[🔔 Mar-23-2022 10:15:19] warn 	hola warn
+[🔔 Mar-23-2022 10:15:20] warn 	hola warn
+[🔔 Mar-23-2022 10:15:21] warn 	hola warn
+[🔔 Mar-23-2022 10:15:21] warn 	hola warn
+[🔔 Mar-23-2022 10:15:21] warn 	hola warn
+[🔔 Mar-23-2022 10:15:22] warn 	hola warn
+[🔔 Mar-23-2022 10:15:23] warn 	hola warn
+[🔔 Mar-23-2022 10:15:24] warn 	hola warn
+[🔔 Mar-23-2022 10:15:24] warn 	hola warn
+[🔔 Mar-23-2022 10:15:25] warn 	hola warn
+[🔔 Mar-23-2022 10:16:36] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:16:36] warn 	hola warn
+[🔔 Mar-23-2022 10:16:51] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:16:51] warn 	hola warn
+[🔔 Mar-23-2022 10:17:03] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:17:03] warn 	hola warn
+[🔔 Mar-23-2022 10:46:11] error 	Creacion del pool connections NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-23-2022 10:46:12] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:46:12] warn 	hola warn
+[🔔 Mar-23-2022 10:46:25] error 	Creacion del pool connections NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-23-2022 10:46:25] warn 	hola warn
+[🔔 Mar-23-2022 10:47:31] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:47:32] warn 	hola warn
+[🔔 Mar-23-2022 10:48:14] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:48:14] warn 	hola warn
+[🔔 Mar-23-2022 10:49:37] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:49:37] error 	Error al ejecuta la sentencia this.connection.getConnection is not a function
+[🔔 Mar-23-2022 10:49:37] warn 	hola warn
+[🔔 Mar-23-2022 10:58:10] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:58:10] error 	Error al ejecuta la sentencia Cannot read property 'getConnection' of undefined
+[🔔 Mar-23-2022 10:58:10] warn 	hola warn
+[🔔 Mar-23-2022 10:59:05] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:59:05] error 	Error al ejecuta la sentencia Cannot read property 'getConnection' of undefined
+[🔔 Mar-23-2022 10:59:05] warn 	hola warn
+[🔔 Mar-23-2022 11:02:34] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:02:35] warn 	hola warn
+[🔔 Mar-23-2022 11:03:03] error 	Conexion.querySelect is not a function
+[🔔 Mar-23-2022 11:03:17] warn 	hola warn
+[🔔 Mar-23-2022 11:07:36] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:07:36] warn 	hola warn
+[🔔 Mar-23-2022 11:11:59] warn 	hola warn
+[🔔 Mar-23-2022 11:12:00] warn 	hola warn
+[🔔 Mar-23-2022 11:12:01] warn 	hola warn
+[🔔 Mar-23-2022 11:12:01] warn 	hola warn
+[🔔 Mar-23-2022 11:12:01] warn 	hola warn
+[🔔 Mar-23-2022 11:12:40] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:12:40] warn 	hola warn
+[🔔 Mar-23-2022 11:24:59] error 	NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:24:59] warn 	hola warn
+[🔔 Mar-23-2022 11:28:48] error 	NJS-047: poolAlias "hrpool" not found in the connection pool cache
+[🔔 Mar-23-2022 11:28:48] warn 	hola warn
+[🔔 Mar-23-2022 11:28:59] warn 	hola warn
+[🔔 Mar-23-2022 11:34:09] error 	Error al ejecuta la sentencia logger.warning is not a function
+[🔔 Mar-23-2022 11:34:09] warn 	hola warn
+[🔔 Mar-23-2022 11:34:26] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 11:34:26] error 	Creacion del pool connections
+[🔔 Mar-23-2022 11:34:26] warn 	hola warn
+[🔔 Mar-23-2022 11:34:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 11:34:44] warn 	hola warn
+[🔔 Mar-23-2022 11:34:54] warn 	hola warn
+[🔔 Mar-23-2022 11:35:40] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 11:35:40] warn 	hola warn
+[🔔 Mar-23-2022 11:35:46] warn 	hola warn
+[🔔 Mar-23-2022 11:39:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 13:52:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 13:53:06] error 	Error al ejecutar la sentencia: INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5) ORA-01400: cannot insert NULL into ("GANADERO"."CLIENTES_PRUEBA"."ID")
+[🔔 Mar-23-2022 13:53:29] error 	Error al ejecutar la sentencia: INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5) ORA-01400: cannot insert NULL into ("GANADERO"."CLIENTES_PRUEBA"."NAME")
+[🔔 Mar-23-2022 13:54:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:00:40] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:09:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:14:52] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:15:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 14:17:27] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:14:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:38:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:38:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:44:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Mar-23-2022 15:44:10] error 	Error al ejecuta la sentencia ORA-12541: TNS:no listener
+[🔔 Mar-23-2022 15:44:26] error 	sql is not defined
+[🔔 Mar-23-2022 15:44:26] error 	Parametro de eliminacion incorrecto: 8
+[🔔 Mar-23-2022 15:44:52] error 	Error al ejecuta la sentencia ORA-12541: TNS:no listener
+[🔔 Mar-23-2022 15:45:50] warn 	No existe un pool de conexiones crearemos uno.

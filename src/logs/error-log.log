@@ -106,3 +106,31 @@
 [🔔 Mar-22-2022 16:25:07] error 	Cannot read property 'resultSet' of undefined
 [🔔 Mar-22-2022 16:29:15] error 	Cannot read property 'execute' of undefined
 [🔔 Mar-22-2022 16:29:35] error 	Cannot read property 'execute' of undefined
+[🔔 Mar-23-2022 10:16:36] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:16:51] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:17:03] error 	ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:46:11] error 	Creacion del pool connections NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-23-2022 10:46:12] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Mar-23-2022 10:46:25] error 	Creacion del pool connections NJS-047: poolAlias "BGPOOL" not found in the connection pool cache
+[🔔 Mar-23-2022 10:47:31] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:48:14] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:49:37] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:49:37] error 	Error al ejecuta la sentencia this.connection.getConnection is not a function
+[🔔 Mar-23-2022 10:58:10] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:58:10] error 	Error al ejecuta la sentencia Cannot read property 'getConnection' of undefined
+[🔔 Mar-23-2022 10:59:05] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 10:59:05] error 	Error al ejecuta la sentencia Cannot read property 'getConnection' of undefined
+[🔔 Mar-23-2022 11:02:34] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:03:03] error 	Conexion.querySelect is not a function
+[🔔 Mar-23-2022 11:07:36] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:12:40] error 	Creacion del pool connections NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:24:59] error 	NJS-047: poolAlias "default" not found in the connection pool cache
+[🔔 Mar-23-2022 11:28:48] error 	NJS-047: poolAlias "hrpool" not found in the connection pool cache
+[🔔 Mar-23-2022 11:34:09] error 	Error al ejecuta la sentencia logger.warning is not a function
+[🔔 Mar-23-2022 11:34:26] error 	Creacion del pool connections
+[🔔 Mar-23-2022 13:53:06] error 	Error al ejecutar la sentencia: INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5) ORA-01400: cannot insert NULL into ("GANADERO"."CLIENTES_PRUEBA"."ID")
+[🔔 Mar-23-2022 13:53:29] error 	Error al ejecutar la sentencia: INSERT INTO CLIENTES_PRUEBA (ID, NAME, AGE, ADDRESS, SALARIO) VALUES (:1, :2, :3, :4, :5) ORA-01400: cannot insert NULL into ("GANADERO"."CLIENTES_PRUEBA"."NAME")
+[🔔 Mar-23-2022 15:44:10] error 	Error al ejecuta la sentencia ORA-12541: TNS:no listener
+[🔔 Mar-23-2022 15:44:26] error 	sql is not defined
+[🔔 Mar-23-2022 15:44:26] error 	Parametro de eliminacion incorrecto: 8
+[🔔 Mar-23-2022 15:44:52] error 	Error al ejecuta la sentencia ORA-12541: TNS:no listener
