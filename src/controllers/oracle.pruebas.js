@@ -8,15 +8,10 @@ const pruebaSelect = async(req, res, next) => {
         const statement = "SELECT * FROM CLIENTES_PRUEBA";
         const result = await Conexion.querySelect(statement);
 
-        logger.info(req.originalUrl);
-        logger.info(req.headers.host);
-        logger.info(req.method);
-
         return res.status(200).json(result);
 
-    } catch (err) {
-        logger.error(err);
-        return res.status(400).json(err);
+    } catch (err) { 
+        return res.status(400).json({error: err.message, message: "Error al ejecutar el controlador"});
     }
 }
 
@@ -29,10 +24,6 @@ const pruebaInsert = async(req, res, next) => {
         const row = [id, name, age, address, salario];
 
         const result = await Conexion.queryInsert(sql, row);
-
-        logger.info(req.originalUrl);
-        logger.info(req.headers.host);
-        logger.info(req.method);
         
         return res.status(200).send({resp: result, message: "Insertado"});
     } catch (err) {

@@ -1,4 +1,3 @@
-const res = require('express/lib/response');
 const oracledb = require('oracledb');
 const {logger} = require('../utils/logger');
 const dotenv = require('dotenv').config();
@@ -63,6 +62,7 @@ class OracleConnection {
             return rows;
         } catch (error) {
             logger.error(`Error al ejecuta la sentencia ${error.message}`);
+            return error;
         }
     }
 
