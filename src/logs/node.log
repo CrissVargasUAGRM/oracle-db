@@ -10759,3 +10759,53 @@
 [🔔 Apr-12-2022 16:52:47] info 	conectando a un pool ya creado
 [🔔 Apr-12-2022 16:52:47] info 	Conexion a pool exitosa
 [🔔 Apr-12-2022 16:52:47] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:05] info 	Servidor corriendo en el puerto 4000
+[🔔 Apr-12-2022 16:53:06] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:53:06] info 	Creacion del pool connections
+[🔔 Apr-12-2022 16:53:06] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:06] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:06] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:06] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:06] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:06] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:06] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:06] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:06] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:06] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:08] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:08] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:08] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:09] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:09] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:09] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:09] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:09] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:09] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:09] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:09] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:09] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:50] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:50] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:50] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:50] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:50] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:50] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:50] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:50] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:50] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:50] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:50] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:50] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:54] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:54] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:54] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:54] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:54] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:54] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:54] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:54] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:54] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA
+[🔔 Apr-12-2022 16:53:54] info 	conectando a un pool ya creado
+[🔔 Apr-12-2022 16:53:54] info 	Conexion a pool exitosa
+[🔔 Apr-12-2022 16:53:54] info 	Sentencia ejecuta select: SELECT * FROM CLIENTES_PRUEBA

@@ -579,3 +579,12 @@
 [🔔 Apr-12-2022 16:52:17] info 	MicroServicio corriendo en el puerto 4001
 [🔔 Apr-12-2022 16:52:40] info 	MicroServicio corriendo en el puerto 4001
 [🔔 Apr-12-2022 16:52:46] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 16:53:05] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 16:53:06] info 	{}
+[🔔 Apr-12-2022 16:53:06] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 16:53:08] info 	{}
+[🔔 Apr-12-2022 16:53:08] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 16:53:50] info 	{}
+[🔔 Apr-12-2022 16:53:50] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 16:53:54] info 	{}
+[🔔 Apr-12-2022 16:53:54] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
