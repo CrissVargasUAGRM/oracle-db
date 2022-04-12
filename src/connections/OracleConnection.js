@@ -44,7 +44,7 @@ class OracleConnection {
         }
     }
 
-    async querySelect(sql){
+    async querySelect(sql, res){
         try {
             const conn = await this.open();
 
@@ -62,7 +62,7 @@ class OracleConnection {
             return rows;
         } catch (error) {
             logger.error(`Error al ejecuta la sentencia ${error.message}`);
-            return error;
+            return res.status(400).json(error);
         }
     }
 

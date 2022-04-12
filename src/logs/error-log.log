@@ -1275,3 +1275,109 @@
 [🔔 Apr-01-2022 16:07:14] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
 [🔔 Apr-01-2022 16:07:14] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
 [🔔 Apr-01-2022 16:07:14] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-06-2022 09:42:52] error 	Error al ejecuta la sentencia ORA-12170: TNS:Connect timeout occurred
+[🔔 Apr-06-2022 09:43:35] error 	Error al ejecuta la sentencia ORA-12170: TNS:Connect timeout occurred
+[🔔 Apr-07-2022 14:54:58] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:54:58] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:54:58] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:59:23] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:59:23] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:59:53] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:14] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:14] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:14] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:03:41] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:03:41] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:03:41] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:09:31] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:31] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:59] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:59] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:59] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:30] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:30] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-08-2022 14:47:18] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:34] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:34] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:34] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:54] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:54] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:54] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:03] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:03] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:03] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:16] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:16] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:16] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:53:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:53:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:53:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 08:52:52] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 08:54:45] error 	Error al ejecuta la sentencia Cannot read property 'getRows' of undefined
+[🔔 Apr-12-2022 08:55:13] error 	Error al ejecuta la sentencia conn is not defined
+[🔔 Apr-12-2022 08:55:59] error 	Error al ejecuta la sentencia NJS-005: invalid value for parameter 1
+[🔔 Apr-12-2022 08:57:02] error 	Error al ejecuta la sentencia NJS-005: invalid value for parameter 1
+[🔔 Apr-12-2022 08:58:11] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 08:59:33] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:00:00] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:01:47] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:01:57] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:02:11] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:02:18] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:02:43] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:04:51] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:07:07] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:08:18] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:11:18] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 13:48:35] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:35] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:53:45] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:58:18] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:58:18] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:59:06] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:59:06] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:05] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:05] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:05] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:59] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:08] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:08] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:08] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:14:47] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:14:47] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:14:47] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:15:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:15:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:15:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:18:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:19:27] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:19:33] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:19:33] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:20:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:20:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:48] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:48] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache

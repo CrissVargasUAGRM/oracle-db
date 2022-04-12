@@ -1,16 +1,16 @@
 const express = require("express");
 const morgan = require('morgan');
 const cors = require('cors');
-const routePrueba = require('./routes/prueba.routes');
-const Conexion = require('./connections/OracleConnection');
-const {logger} = require('./utils/logger');
-const routerUser = require("./routes/user.routes");
+//const { logger } = require("./utils/logger");
+
+const routerRef = require('./router/bff.routes');
+//const routerPrueba = require('./router/peticiones.routes');
 
 class Server{
     constructor(port){
         this.port = port;
         this.app = express();
-        this.path = "/api";
+        this.path = "/bff";
 
         this.app.use(cors({
             origin: true,
@@ -20,11 +20,10 @@ class Server{
         this.app.set('trust proxy', true);
 
         this.app.use(express.json());
-        this.app.use(morgan('combined'));
+        this.app.use(morgan('dev'));
         
         this.app.get('/', (req, res) => {
-            res.setHeader('X-Foo', 'bar')
-            res.send('Hello World!')
+            res.send('Hello MS-Personas!')
         });
 
         /* conexion a oracle */
@@ -40,18 +39,19 @@ class Server{
             if(err){
                 console.error(err);
             }else{
-                logger.info(`Servidor corriendo en el puerto ${this.port}`);
+                //logger.info(`MicroServicio corriendo en el puerto ${this.port}`);
+                console.log(`MicroServicio corriendo en el puerto ${this.port}`);
             }
         });
     }
 
     async conectarDB(){
-        await Conexion.getConexion();
+        
     }
 
     routes(){
-        this.app.use(`${this.path}/pruebaOracle`, routePrueba);
-        this.app.use(`${this.path}/auth`, routerUser);
+        this.app.use(`${this.path}`, routerRef);
+        //this.app.use(`${this.path}`, routerPrueba);
     }
 
 }

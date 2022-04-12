@@ -1623,3 +1623,392 @@
 [🔔 Apr-01-2022 16:07:14] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
 [🔔 Apr-01-2022 16:07:14] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
 [🔔 Apr-01-2022 16:07:14] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-06-2022 09:42:31] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-06-2022 09:42:52] error 	Error al ejecuta la sentencia ORA-12170: TNS:Connect timeout occurred
+[🔔 Apr-06-2022 09:43:35] error 	Error al ejecuta la sentencia ORA-12170: TNS:Connect timeout occurred
+[🔔 Apr-07-2022 09:25:19] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 09:26:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 09:26:39] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 09:27:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 09:27:23] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 11:22:49] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 11:31:26] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 11:37:31] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:54:58] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:54:58] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:54:58] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:54:58] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:54:58] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:54:58] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:54:58] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:59:23] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:59:23] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:59:23] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:59:23] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:59:23] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 14:59:53] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:59:53] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 14:59:53] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:14] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:02:14] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:02:14] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:14] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:02:14] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:14] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:02:14] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:02:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:02:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:02:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:03:41] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:03:41] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:03:41] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:03:41] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:03:41] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:03:41] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-07-2022 15:03:41] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-07-2022 15:09:31] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:31] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:59] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:59] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:09:59] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:25] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:10:42] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:30] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:30] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-07-2022 15:17:47] error 	Error al ejecuta la sentencia NJS-040: connection request timeout. Request exceeded queueTimeout of 60000
+[🔔 Apr-08-2022 14:28:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:29:32] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:29:46] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:30:19] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:18] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:34] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:34] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:34] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:34] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:34] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:34] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:34] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:54] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:54] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:54] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:54] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:54] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:47:54] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:47:54] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:03] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:03] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:03] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:16] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:16] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:48:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:48:16] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:53:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:53:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:53:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:53:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:53:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:53:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:53:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-08-2022 14:58:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:59:10] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 14:59:36] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 15:00:15] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 15:04:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 15:04:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 15:04:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-08-2022 15:05:22] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:50:53] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:52:52] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:52:52] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 08:54:45] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:54:45] error 	Error al ejecuta la sentencia Cannot read property 'getRows' of undefined
+[🔔 Apr-12-2022 08:55:13] error 	Error al ejecuta la sentencia conn is not defined
+[🔔 Apr-12-2022 08:55:59] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:55:59] error 	Error al ejecuta la sentencia NJS-005: invalid value for parameter 1
+[🔔 Apr-12-2022 08:56:25] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:57:02] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:57:02] error 	Error al ejecuta la sentencia NJS-005: invalid value for parameter 1
+[🔔 Apr-12-2022 08:57:37] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:58:11] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:58:11] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 08:59:33] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 08:59:33] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:00:00] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:00:00] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:01:47] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:01:47] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:01:57] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:01:57] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:02:11] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:02:11] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:02:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:02:18] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:02:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:02:43] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:03:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:04:51] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:04:51] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:07:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:07:07] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:07:07] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:08:17] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:08:18] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:11:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:11:18] error 	Error al ejecuta la sentencia ORA-00942: table or view does not exist
+[🔔 Apr-12-2022 09:11:27] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:21:13] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:21:51] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:22:20] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:28:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:29:46] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:35:24] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:44:32] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:48:11] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:49:24] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:50:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 09:55:26] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:12:51] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:13:52] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:14:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:16:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:23:26] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:25:31] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:26:16] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:29:19] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:33:40] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:39:14] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:39:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:40:38] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:43:07] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:43:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:46:07] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:46:43] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:51:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:52:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:52:40] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:53:04] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:53:53] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:55:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:55:15] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 11:56:46] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:35] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:35] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:48:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:48:44] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:53:00] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:53:12] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:53:45] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:53:45] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:53:45] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:55:13] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:55:21] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:55:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:55:51] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:56:04] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:58:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:58:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:58:18] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:58:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:58:18] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:59:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:59:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:59:06] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 13:59:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 13:59:06] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:09:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:09:05] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:09:05] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:05] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:09:05] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:09:59] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:09:59] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:09:59] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:08] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:08] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:08] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:10:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:10:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:14:47] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:14:47] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:14:47] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:14:47] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:14:47] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:14:47] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:14:47] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:15:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:15:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:15:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:15:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:15:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:15:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:15:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:16:24] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:17:07] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:17:32] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:17:50] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:18:31] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:18:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:18:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:18:55] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:19:27] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:19:27] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:19:27] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 14:19:45] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:20:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:21:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:21:22] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:21:37] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:29:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:29:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:37:01] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:37:29] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:37:46] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:37:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:38:25] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:47:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:49:19] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:49:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:50:20] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:56:53] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:57:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:57:54] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:58:34] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:58:56] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 14:59:07] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:00:06] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:00:58] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:01:13] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:01:24] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:02:23] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:02:37] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:09:41] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:11:00] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:11:10] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:11:53] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:12:11] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:13:00] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:17:37] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:18:14] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:18:44] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:19:09] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:19:18] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:19:33] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:19:33] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:19:33] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:19:33] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:19:33] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:20:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:20:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:20:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:20:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:20:42] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:21:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:21:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:28] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:21:28] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:21:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:21:48] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:21:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:21:48] error 	Error al ejecuta la sentencia NJS-046: poolAlias "default" already exists in the connection pool cache
+[🔔 Apr-12-2022 15:22:32] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:22:52] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:24:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:25:15] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:26:45] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:26:54] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:29:24] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:30:23] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:30:45] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:31:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:33:14] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:34:22] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:35:25] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:36:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:37:43] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:38:07] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:40:36] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:43:55] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:45:43] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:46:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:47:00] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:47:11] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:48:12] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:48:29] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:57:43] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:57:51] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 15:58:00] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:02:19] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:02:50] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:03:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:03:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:04:42] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:05:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:06:26] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:07:20] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:07:48] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:07:58] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:08:08] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:08:39] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:08:56] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:10:00] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:10:35] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:10:57] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:12:11] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:13:31] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:13:51] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:15:07] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:16:03] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:19:38] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:21:19] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:21:31] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:21:39] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:46:46] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:52:21] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:52:41] warn 	No existe un pool de conexiones crearemos uno.
+[🔔 Apr-12-2022 16:52:47] warn 	No existe un pool de conexiones crearemos uno.

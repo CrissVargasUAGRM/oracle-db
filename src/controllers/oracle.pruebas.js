@@ -11,7 +11,7 @@ const pruebaSelect = async(req, res, next) => {
         return res.status(200).json(result);
 
     } catch (err) { 
-        return res.status(400).json({error: err.message, message: "Error al ejecutar el controlador"});
+        return res.status(400).json({error: err.message, message: "Error al ejecutar el controlador", err: err});
     }
 }
 
@@ -73,4 +73,9 @@ const pruebaDelete = async(req, res, next) => {
     }
 }
 
-module.exports = {pruebaSelect, pruebaInsert, pruebaUpdate, pruebaDelete}
+const dataPrueba = (req, res, next) => {
+    console.log(req.headers);
+    return res.status(200).json({message: "Hola como estas"});
+}
+
+module.exports = {pruebaSelect, pruebaInsert, pruebaUpdate, pruebaDelete, dataPrueba}
