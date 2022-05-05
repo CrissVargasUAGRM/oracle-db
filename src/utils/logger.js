@@ -1,7 +1,3 @@
-/* import { createLogger, format, transports } from "winston";
-import path from "path";
-import { fileURLToPath } from "url"; */
-
 const {createLogger, format, transports} = require('winston');
 
 module.exports = {

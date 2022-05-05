@@ -588,3 +588,247 @@
 [🔔 Apr-12-2022 16:53:50] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
 [🔔 Apr-12-2022 16:53:54] info 	{}
 [🔔 Apr-12-2022 16:53:54] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 17:02:27] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:02:31] info 	{}
+[🔔 Apr-12-2022 17:02:31] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 17:03:02] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:03:04] info 	{}
+[🔔 Apr-12-2022 17:03:04] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 17:03:17] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:03:18] info 	{}
+[🔔 Apr-12-2022 17:03:18] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 17:03:34] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:03:39] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:03:47] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:03:55] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:03:58] info 	{}
+[🔔 Apr-12-2022 17:03:58] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 17:04:08] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 17:05:12] info 	{}
+[🔔 Apr-12-2022 17:05:12] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 17:05:21] info 	{}
+[🔔 Apr-12-2022 17:05:21] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 22:49:44] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 22:49:50] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:06:03] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:43:25] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:43:54] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:44:01] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:44:31] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:46:14] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:46:18] info 	{}
+[🔔 Apr-12-2022 23:46:18] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:46:31] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:46:31] info 	{}
+[🔔 Apr-12-2022 23:46:31] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:47:13] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:47:14] info 	{}
+[🔔 Apr-12-2022 23:47:14] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:48:22] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:48:24] info 	{}
+[🔔 Apr-12-2022 23:48:24] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:48:40] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:48:41] info 	{}
+[🔔 Apr-12-2022 23:48:41] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:48:52] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:48:53] info 	{}
+[🔔 Apr-12-2022 23:48:53] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:49:11] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:49:12] info 	{}
+[🔔 Apr-12-2022 23:49:12] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:49:25] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:49:26] info 	{}
+[🔔 Apr-12-2022 23:49:26] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:50:12] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:50:14] info 	{}
+[🔔 Apr-12-2022 23:50:14] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:51:26] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:51:29] info 	{}
+[🔔 Apr-12-2022 23:51:29] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:51:34] info 	{}
+[🔔 Apr-12-2022 23:51:34] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:51:38] info 	{}
+[🔔 Apr-12-2022 23:51:38] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:51:40] info 	{}
+[🔔 Apr-12-2022 23:51:40] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:51:41] info 	{}
+[🔔 Apr-12-2022 23:51:41] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:51:58] info 	{}
+[🔔 Apr-12-2022 23:51:58] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:52:05] info 	{}
+[🔔 Apr-12-2022 23:52:05] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:52:19] info 	{}
+[🔔 Apr-12-2022 23:52:19] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:52:46] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:52:48] info 	{}
+[🔔 Apr-12-2022 23:52:48] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:53:07] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:54:10] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:54:13] info 	{}
+[🔔 Apr-12-2022 23:54:13] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:54:15] info 	{}
+[🔔 Apr-12-2022 23:54:15] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:54:24] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:54:25] info 	{}
+[🔔 Apr-12-2022 23:54:25] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:54:43] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:54:50] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:54:53] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:54:54] info 	{}
+[🔔 Apr-12-2022 23:54:54] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:55:02] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:55:03] info 	{}
+[🔔 Apr-12-2022 23:55:03] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:55:11] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:55:13] info 	{}
+[🔔 Apr-12-2022 23:55:13] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:55:54] info 	{}
+[🔔 Apr-12-2022 23:55:55] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:56:00] info 	{}
+[🔔 Apr-12-2022 23:56:00] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:56:11] info 	{}
+[🔔 Apr-12-2022 23:56:11] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:56:13] info 	{}
+[🔔 Apr-12-2022 23:56:13] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:56:14] info 	{}
+[🔔 Apr-12-2022 23:56:14] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:56:31] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:56:35] info 	{}
+[🔔 Apr-12-2022 23:56:35] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:56:50] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:56:52] info 	{}
+[🔔 Apr-12-2022 23:56:52] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:57:04] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:57:07] info 	{}
+[🔔 Apr-12-2022 23:57:07] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:57:22] info 	{}
+[🔔 Apr-12-2022 23:57:22] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:57:38] info 	{}
+[🔔 Apr-12-2022 23:57:38] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:57:50] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:57:52] info 	{}
+[🔔 Apr-12-2022 23:57:52] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:58:07] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:58:38] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:58:42] info 	{}
+[🔔 Apr-12-2022 23:58:42] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:58:56] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:58:58] info 	{}
+[🔔 Apr-12-2022 23:58:58] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-12-2022 23:59:49] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-12-2022 23:59:51] info 	{}
+[🔔 Apr-12-2022 23:59:51] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:00:33] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:00:35] info 	{}
+[🔔 Apr-13-2022 00:00:35] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:03:28] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:03:50] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:03:53] info 	{}
+[🔔 Apr-13-2022 00:03:53] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:04:07] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:04:08] info 	{}
+[🔔 Apr-13-2022 00:04:08] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:04:26] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:04:27] info 	{}
+[🔔 Apr-13-2022 00:04:27] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:04:54] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:04:59] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:05:02] info 	{}
+[🔔 Apr-13-2022 00:05:02] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:05:13] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:05:15] info 	{}
+[🔔 Apr-13-2022 00:05:15] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:05:22] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:05:23] info 	{}
+[🔔 Apr-13-2022 00:05:23] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:06:03] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:06:07] info 	{}
+[🔔 Apr-13-2022 00:06:07] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:06:56] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:06:57] info 	{}
+[🔔 Apr-13-2022 00:06:57] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:08:18] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:08:23] info 	{}
+[🔔 Apr-13-2022 00:08:23] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:08:38] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:08:44] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:08:46] info 	{}
+[🔔 Apr-13-2022 00:08:46] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:09:15] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:09:16] info 	{}
+[🔔 Apr-13-2022 00:09:16] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:09:32] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:09:33] info 	{}
+[🔔 Apr-13-2022 00:09:33] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:10:20] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:10:21] info 	{}
+[🔔 Apr-13-2022 00:10:21] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:10:43] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 00:10:45] info 	{}
+[🔔 Apr-13-2022 00:10:45] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 00:10:47] info 	{}
+[🔔 Apr-13-2022 00:10:47] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:18:01] info 	{}
+[🔔 Apr-13-2022 08:18:01] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:18:10] info 	{}
+[🔔 Apr-13-2022 08:18:10] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:18:34] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:18:38] info 	{}
+[🔔 Apr-13-2022 08:18:38] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:18:42] info 	{}
+[🔔 Apr-13-2022 08:18:42] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","token":"Bearer dsahdiquw12321iu134ui","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:18:54] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:19:44] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:20:32] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:21:01] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:21:07] info 	{}
+[🔔 Apr-13-2022 08:21:07] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:21:20] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:21:21] info 	{}
+[🔔 Apr-13-2022 08:21:21] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:21:34] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:21:35] info 	{}
+[🔔 Apr-13-2022 08:21:35] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:49:35] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:49:37] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:49:44] info 	{}
+[🔔 Apr-13-2022 08:49:44] info 	{"accept":"application/json, text/plain, */*","user":"TOP1","password":"SYSTEMS1","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 08:49:59] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:50:06] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:50:59] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 08:51:35] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 15:11:49] info 	{}
+[🔔 Apr-13-2022 15:11:49] info 	{"accept":"application/json, text/plain, */*","authorization":"Basic VE9QMTpTWVNURU1TMQ==","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 15:18:28] info 	{}
+[🔔 Apr-13-2022 15:18:28] info 	{"accept":"application/json, text/plain, */*","authorization":"Basic VE9QMTo=","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 16:58:40] info 	{}
+[🔔 Apr-13-2022 16:58:40] info 	{"accept":"application/json, text/plain, */*","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 16:59:23] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 16:59:26] info 	{}
+[🔔 Apr-13-2022 16:59:26] info 	{"accept":"application/json, text/plain, */*","user-agent":"axios/0.26.1","host":"localhost:4001","connection":"close"}
+[🔔 Apr-13-2022 20:37:40] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:01:33] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:02:12] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:02:51] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:03:27] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:16:58] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:17:31] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:23:34] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:24:05] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:25:54] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:26:23] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 21:26:48] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 22:02:38] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 23:16:05] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 23:23:22] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 23:24:58] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 23:25:02] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-13-2022 23:25:15] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-14-2022 14:14:23] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-14-2022 14:14:37] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-14-2022 14:42:52] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-14-2022 14:43:26] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-21-2022 16:12:57] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-21-2022 16:27:34] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-21-2022 16:32:08] info 	MicroServicio corriendo en el puerto 4001
+[🔔 Apr-21-2022 16:41:32] info 	MicroServicio corriendo en el puerto 4001

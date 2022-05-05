@@ -1,5 +1,5 @@
 const {Router} = require('express');
-const {msPersonas, msRefecncia, msPer, msactividad} = require('../functions/peticiones.services');
+//const {msPersonas, msRefecncia, msPer, msactividad} = require('../functions/peticiones.service');
 
 const router = Router();
 

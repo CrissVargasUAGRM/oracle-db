@@ -1,5 +1,3 @@
-/* import { Server } from "./app.js";
-import { config } from "dotenv"; */
 
 const { config } = require('dotenv');
 const Server = require('./app');
